@@ -1,0 +1,41 @@
+type: edu
+files:
+  - name: src/account/AccountServiceApplication.java
+    visible: true
+    learner_created: false
+  - name: src/resources/application.properties
+    visible: true
+    learner_created: false
+  - name: build.gradle
+    visible: true
+    learner_created: false
+  - name: src/account/model/User.java
+    visible: true
+    learner_created: false
+  - name: src/account/UserRepository.java
+    visible: true
+    learner_created: false
+  - name: src/account/UserService.java
+    visible: true
+    learner_created: false
+  - name: src/account/controller/AuthController.java
+    visible: true
+    learner_created: false
+  - name: src/account/security/SecurityConfig.java
+    visible: true
+    learner_created: false
+  - name: src/account/controller/BusinessController.java
+    visible: true
+    learner_created: false
+  - name: src/account/controller/ServiceController.java
+    visible: true
+    learner_created: false
+  - name: test/AccountServiceTest.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/217/stages/1087/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 23 Oct 2024 17:14:24 UTC"
+record: 1
